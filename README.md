@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @AkshanviC
 - 👀 I’m interested in Javascript and ReactJs
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning React Native
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me https://vigneshakshan.netlify.app/
 
 <!---
 AkshanviC/AkshanviC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
