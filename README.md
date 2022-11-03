@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AkshanviC
 - 👀 I’m interested in Javascript and ReactJs
 - 🌱 I’m currently learning React Native
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ReactJs
 - 📫 How to reach me https://vigneshakshan.netlify.app/
 
 <!---
